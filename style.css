@@ -8,7 +8,7 @@ body {
   --grey: hsl(240, 9%, 89%);
 
   height: 100%;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -24,7 +24,7 @@ main {
 }
 
 .container {
-  max-width: 250px;
+  max-width: 280px;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
